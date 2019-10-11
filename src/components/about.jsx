@@ -36,7 +36,7 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
-                    <i className="icon-bulb" />
+                    <i className="icon-data" />
                 </span>
                 <div className="desc">
                     <h3>Machine Learning and Data Science</h3>
@@ -58,7 +58,7 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                 <span className="icon">
-                    <i className="icon-data" />
+                    <i className="icon-plane" />
                 </span>
                 <div className="desc">
                     <h3>Mechanical Design</h3>

@@ -30,7 +30,7 @@ export default class Sidebar extends Component {
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                  Copyright <a href="https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/" target="_blank" rel="noopener noreferrer">FreeCodeCamp</a>
+                  Copyright <a href="https://github.com/dbarochiya/me/tree/master/public" target="_blank" rel="noopener noreferrer">FreeCodeCamp</a>
               </small></p>
             </div>
           </aside>
