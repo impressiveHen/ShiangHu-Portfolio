@@ -40,7 +40,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Machine Learning and Data Science</h3>
-                    <p>Took courses like Computer Vision, NLP, Deep Learning CNN RNN, Machine Learning algorithms</p>
+                    <p>Took courses in Computer Vision, NLP, Deep Learning CNN RNN, Machine Learning algorithms</p>
                 </div>
                 </div>
             </div>

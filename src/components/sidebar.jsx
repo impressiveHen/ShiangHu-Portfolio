@@ -28,11 +28,6 @@ export default class Sidebar extends Component {
                 <li><a href="https://www.linkedin.com/in/shiang-hu" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
               </ul>
             </nav>
-            <div className="colorlib-footer">
-              <p><small>
-                  Copyright <a href="https://github.com/dbarochiya/me/tree/master/public" target="_blank" rel="noopener noreferrer">FreeCodeCamp</a>
-              </small></p>
-            </div>
           </aside>
         </div>
       </div>
